@@ -45,7 +45,7 @@ def generate_image():
         # Create the response dictionary with Owner included
         response_dict = {
             'image_url': image_url,
-            'Owner': '@PikaApis'
+            'Owner': '@BjsWorks'
         }
 
         # Use jsonify directly to return the proper JSON response
